@@ -6,3 +6,4 @@ def CharCount(inputstring):
      return count
 
 CharCount("test")
+ #this is a test
